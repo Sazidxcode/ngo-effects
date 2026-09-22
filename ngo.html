@@ -237,9 +237,25 @@
       overflow: hidden;
       border: 1px solid rgba(255,255,255,.12);
       border-radius: 22px;
+      background: #062d25;
+    }
+
+    .profile-visual-image {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: .78;
+      filter: saturate(.9);
+    }
+
+    .profile-visual-overlay {
+      position: absolute;
+      inset: 0;
       background:
-        radial-gradient(circle at 70% 25%, rgba(61,180,135,.22), transparent 34%),
-        linear-gradient(145deg, #0b4a3b, #062d25);
+        linear-gradient(180deg, rgba(4,37,29,.18) 0%, rgba(4,37,29,.38) 42%, rgba(4,37,29,.94) 100%),
+        linear-gradient(135deg, rgba(7,56,45,.32), rgba(6,45,37,.35));
     }
 
     .profile-visual-grid {
@@ -1237,6 +1253,14 @@
 
               <div class="profile-visual-card">
 
+                <img
+                  class="profile-visual-image"
+                  src="${escapeHTML(ngo.image || ngo.imageUrl || "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?auto=format&fit=crop&w=1200&q=85")}"
+                  alt="${escapeHTML(name)} community and social impact"
+                  loading="eager"
+                >
+
+                <div class="profile-visual-overlay"></div>
                 <div class="profile-visual-grid"></div>
 
                 <div class="profile-visual-ring"></div>
