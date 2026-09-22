@@ -6473,3 +6473,33 @@ img {
   }
 
 }
+/* =========================================================
+   HOME TRACKER — VISUAL ORDER
+   Keep everything inside the same .shell so the
+   existing sizing/layout does not change.
+========================================================= */
+
+#impact-tracker > .shell {
+  display: flex;
+  flex-direction: column;
+}
+
+/* 1. Impact landscape comes directly after hero */
+#impact-tracker > .shell > .impact-landscape {
+  order: 1;
+}
+
+/* 2. Impact tracker heading */
+#impact-tracker > .shell > .section-heading {
+  order: 2;
+}
+
+/* 3. State / District selector */
+#impact-tracker > .shell > .tracker-panel {
+  order: 3;
+}
+
+/* 4. Selected location result */
+#impact-tracker > .shell > #impact-result {
+  order: 4;
+}
