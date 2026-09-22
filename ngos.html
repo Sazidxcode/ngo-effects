@@ -1,56 +1,79 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Explore NGOs by State and District with NGOEffects. Visit official organization websites and verified contact pages where available.">
-  <title>NGOEffects | Explore NGOs</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/css/style.css">
-  <link rel="stylesheet" href="assets/css/responsive.css">
-</head>
-<body data-page="ngos">
-  <div data-nav></div>
-  <main>
-    <section class="page-hero compact">
-      <div class="shell page-hero-grid">
-        <div class="reveal">
-          <span class="eyebrow">NGO DIRECTORY · 03</span>
-          <h1>Explore NGOs near your selected place.</h1>
-          <p>Select a State and District to discover organisations connected to that place, then open their public website.</p><img class="page-hero-photo" src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Young_Baiga_women,_India.jpg" alt="Community members in India">
-        </div>
-        <div class="page-hero-index reveal">DISCOVER<br>LOCAL<br>WORK</div>
-      </div>
-    </section>
-
-    <section class="section directory-section">
-      <div class="shell">
-        <div class="directory-toolbar reveal">
-          <div class="field">
-            <label for="ngo-state">State</label>
-            <select id="ngo-state" name="ngo-state"></select>
-            <span class="helper">Choose the State or Union Territory.</span>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Explore NGOs by State and District with NGOEffects. Visit official organization websites and verified contact pages where available."
+    />
+    <title>NGOEffects | Explore NGOs</title>
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" />
+  </head>
+  <body data-page="ngos">
+    <div data-nav></div>
+    <main>
+      <section class="page-hero compact">
+        <div class="shell page-hero-grid">
+          <div class="reveal">
+            <span class="eyebrow">NGO DIRECTORY · 03</span>
+            <h1>Explore NGOs near your selected place.</h1>
+            <p>
+              Select a State and District to discover organisations connected to
+              that place, then open their public website.
+            </p>
+            <img
+              class="page-hero-photo"
+              src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Young_Baiga_women,_India.jpg"
+              alt="Community members in India"
+            />
           </div>
-          <div class="field">
-            <label for="ngo-district">District</label>
-            <select id="ngo-district" name="ngo-district" disabled></select>
-            <span class="helper">Districts update automatically.</span>
+          <div class="page-hero-index reveal">
+            DISCOVER<br />LOCAL<br />WORK
           </div>
         </div>
+      </section>
 
-        <div id="ngo-notice" class="fallback-notice" aria-live="polite"></div>
+      <section class="section directory-section">
+        <div class="shell">
+          <div class="directory-toolbar reveal">
+            <div class="field">
+              <label for="ngo-state">State</label>
+              <select id="ngo-state" name="ngo-state"></select>
+              <span class="helper">Choose the State or Union Territory.</span>
+            </div>
+            <div class="field">
+              <label for="ngo-district">District</label>
+              <select id="ngo-district" name="ngo-district" disabled></select>
+              <span class="helper">Districts update automatically.</span>
+            </div>
+          </div>
 
-        <div class="directory-heading reveal">
-          <div><span class="eyebrow">Directory</span><h2>Organisations connected to this place</h2></div>
-          <span id="ngo-count" class="result-count">Loading...</span>
+          <div id="ngo-notice" class="fallback-notice" aria-live="polite"></div>
+
+          <div class="directory-heading reveal">
+            <div>
+              <span class="eyebrow">Directory</span>
+              <h2>Organisations connected to this place</h2>
+            </div>
+            <span id="ngo-count" class="result-count">Loading...</span>
+          </div>
+
+          <div id="ngo-results" class="ngo-grid"></div>
         </div>
-
-        <div id="ngo-results" class="ngo-grid"></div>
-      </div>
-    </section>
-  </main>
-  <div data-footer></div>
-  <script src="assets/js/data.js"></script>
-  <script src="assets/js/main.js"></script>
-  <script src="assets/js/ngos.js"></script>
-</body>
+      </section>
+    </main>
+    <div data-footer></div>
+    <script src="assets/js/data.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/ngos.js"></script>
+  </body>
 </html>
