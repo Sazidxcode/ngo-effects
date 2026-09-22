@@ -37,7 +37,7 @@
       page = document.body?.dataset.page || "";
     if (nav) {
       nav.className = "site-header";
-      nav.innerHTML = `<div class="shell nav-inner"><a class="brand" href="index.html"><span class="brand-mark">NE</span><span><b>NGO</b>Effects</span></a><button class="nav-toggle" aria-expanded="false" aria-controls="site-menu"><span></span><span></span></button><nav class="nav-menu" id="site-menu"><a data-page-link="home" href="index.html">Home</a><a data-page-link="impact" href="impact.html">Impact Tracker</a><a data-page-link="ngos" href="ngos.html">Explore NGOs</a><a data-page-link="about" href="about.html">About</a></nav></div>`;
+      nav.innerHTML = `<div class="shell nav-inner"><a class="brand" href="index.html"><div class="brand-mark"> <img src="assets/images/favicon.png" alt="NGOEffects"> </div><span><b>NGO</b>Effects</span></a><button class="nav-toggle" aria-expanded="false" aria-controls="site-menu"><span></span><span></span></button><nav class="nav-menu" id="site-menu"><a data-page-link="home" href="index.html">Home</a><a data-page-link="impact" href="impact.html">Impact Tracker</a><a data-page-link="ngos" href="ngos.html">Explore NGOs</a><a data-page-link="about" href="about.html">About</a></nav></div>`;
       nav.querySelector(`[data-page-link="${page}"]`)?.classList.add("active");
       const t = nav.querySelector(".nav-toggle"),
         m = nav.querySelector(".nav-menu");
