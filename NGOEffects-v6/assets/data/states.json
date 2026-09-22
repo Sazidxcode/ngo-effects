@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Andaman and Nicobar Islands",
+    "type": "UT",
+    "districtCount": 3
+  },
+  {
+    "name": "Andhra Pradesh",
+    "type": "State",
+    "districtCount": 28
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "type": "State",
+    "districtCount": 27
+  },
+  {
+    "name": "Assam",
+    "type": "State",
+    "districtCount": 35
+  },
+  {
+    "name": "Chandigarh",
+    "type": "UT",
+    "districtCount": 1
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "type": "UT",
+    "districtCount": 3
+  },
+  {
+    "name": "Delhi",
+    "type": "UT",
+    "districtCount": 13
+  },
+  {
+    "name": "Goa",
+    "type": "State",
+    "districtCount": 3
+  },
+  {
+    "name": "Bihar",
+    "type": "State",
+    "districtCount": 38
+  },
+  {
+    "name": "Chhattisgarh",
+    "type": "State",
+    "districtCount": 33
+  },
+  {
+    "name": "Haryana",
+    "type": "State",
+    "districtCount": 23
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "type": "UT",
+    "districtCount": 20
+  },
+  {
+    "name": "Gujarat",
+    "type": "State",
+    "districtCount": 34
+  },
+  {
+    "name": "Jharkhand",
+    "type": "State",
+    "districtCount": 24
+  },
+  {
+    "name": "Kerala",
+    "type": "State",
+    "districtCount": 14
+  },
+  {
+    "name": "Ladakh",
+    "type": "UT",
+    "districtCount": 2
+  },
+  {
+    "name": "Lakshadweep",
+    "type": "UT",
+    "districtCount": 1
+  },
+  {
+    "name": "Karnataka",
+    "type": "State",
+    "districtCount": 31
+  },
+  {
+    "name": "Himachal Pradesh",
+    "type": "State",
+    "districtCount": 12
+  },
+  {
+    "name": "Manipur",
+    "type": "State",
+    "districtCount": 16
+  },
+  {
+    "name": "Meghalaya",
+    "type": "State",
+    "districtCount": 12
+  },
+  {
+    "name": "Mizoram",
+    "type": "State",
+    "districtCount": 11
+  },
+  {
+    "name": "Maharashtra",
+    "type": "State",
+    "districtCount": 36
+  },
+  {
+    "name": "Nagaland",
+    "type": "State",
+    "districtCount": 17
+  },
+  {
+    "name": "Puducherry",
+    "type": "UT",
+    "districtCount": 2
+  },
+  {
+    "name": "Punjab",
+    "type": "State",
+    "districtCount": 23
+  },
+  {
+    "name": "Madhya Pradesh",
+    "type": "State",
+    "districtCount": 55
+  },
+  {
+    "name": "Odisha",
+    "type": "State",
+    "districtCount": 30
+  },
+  {
+    "name": "Sikkim",
+    "type": "State",
+    "districtCount": 6
+  },
+  {
+    "name": "Telangana",
+    "type": "State",
+    "districtCount": 33
+  },
+  {
+    "name": "Tripura",
+    "type": "State",
+    "districtCount": 8
+  },
+  {
+    "name": "Rajasthan",
+    "type": "State",
+    "districtCount": 41
+  },
+  {
+    "name": "Uttarakhand",
+    "type": "State",
+    "districtCount": 13
+  },
+  {
+    "name": "Tamil Nadu",
+    "type": "State",
+    "districtCount": 38
+  },
+  {
+    "name": "West Bengal",
+    "type": "State",
+    "districtCount": 23
+  },
+  {
+    "name": "Uttar Pradesh",
+    "type": "State",
+    "districtCount": 75
+  }
+]

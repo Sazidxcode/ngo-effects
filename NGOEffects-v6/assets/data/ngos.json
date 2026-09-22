@@ -1,0 +1,1047 @@
+[
+  {
+    "id": "ngo-pratham",
+    "name": "Pratham Education Foundation",
+    "state": "Maharashtra",
+    "districts": [
+      "Mumbai"
+    ],
+    "sectors": [
+      "Education",
+      "Skill Development"
+    ],
+    "description": "Education organisation working to improve learning outcomes and opportunities for children and young people.",
+    "website": "https://www.pratham.org/",
+    "contactPage": "https://www.pratham.org/contact/",
+    "operatingStates": [
+      "Maharashtra",
+      "Assam",
+      "Andhra Pradesh",
+      "Telangana",
+      "Arunachal Pradesh",
+      "Bihar",
+      "Odisha",
+      "Punjab",
+      "Rajasthan",
+      "Tamil Nadu",
+      "Tripura",
+      "Uttar Pradesh",
+      "Uttarakhand",
+      "West Bengal"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-cry",
+    "name": "Child Rights and You (CRY)",
+    "state": "Maharashtra",
+    "districts": [
+      "Mumbai"
+    ],
+    "sectors": [
+      "Women & Child Welfare",
+      "Education",
+      "Healthcare"
+    ],
+    "description": "Organisation focused on child rights and child-centred development.",
+    "website": "https://www.cry.org/",
+    "contactPage": null,
+    "operatingStates": [
+      "Andhra Pradesh",
+      "Karnataka",
+      "Odisha",
+      "Tamil Nadu",
+      "West Bengal",
+      "Chhattisgarh",
+      "Bihar",
+      "Gujarat",
+      "Haryana",
+      "Himachal Pradesh",
+      "Jammu and Kashmir",
+      "Jharkhand",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Manipur",
+      "Punjab",
+      "Rajasthan",
+      "Sikkim",
+      "Uttar Pradesh",
+      "Telangana"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-roomread",
+    "name": "Room to Read India",
+    "state": "Delhi",
+    "districts": [
+      "New Delhi"
+    ],
+    "sectors": [
+      "Education",
+      "Women & Child Welfare"
+    ],
+    "description": "Literacy and girls’ education organisation with state implementation offices across India.",
+    "website": "https://www.roomtoreadindia.org/",
+    "contactPage": "https://www.roomtoreadindia.org/get-in-touch/",
+    "operatingStates": [
+      "Chhattisgarh",
+      "Delhi",
+      "Jharkhand",
+      "Karnataka",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Rajasthan",
+      "Telangana",
+      "Uttarakhand",
+      "Uttar Pradesh"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-wateraid",
+    "name": "WaterAid India",
+    "state": "Delhi",
+    "districts": [
+      "New Delhi"
+    ],
+    "sectors": [
+      "Water & Sanitation",
+      "Healthcare",
+      "Community Development"
+    ],
+    "description": "Organisation working on safe water, sanitation and hygiene.",
+    "website": "https://www.wateraid.org/in/",
+    "contactPage": "https://www.wateraid.org/in/contact-us",
+    "operatingStates": [
+      "Delhi",
+      "Karnataka",
+      "Madhya Pradesh",
+      "Odisha",
+      "Telangana",
+      "Uttar Pradesh",
+      "Bihar"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-smile",
+    "name": "Smile Foundation",
+    "state": "Delhi",
+    "districts": [
+      "New Delhi"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Education",
+      "Livelihood",
+      "Women & Child Welfare"
+    ],
+    "description": "Development organisation working across health, education, livelihood and women’s empowerment.",
+    "website": "https://www.smilefoundationindia.org/",
+    "contactPage": "https://www.smilefoundationindia.org/contact-us/",
+    "operatingStates": [
+      "Delhi",
+      "Maharashtra",
+      "Karnataka",
+      "West Bengal",
+      "Uttar Pradesh",
+      "Bihar",
+      "Rajasthan",
+      "Tamil Nadu",
+      "Telangana",
+      "Odisha",
+      "Haryana",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Jharkhand",
+      "Punjab",
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Chhattisgarh",
+      "Andhra Pradesh",
+      "Assam",
+      "Kerala",
+      "Jammu and Kashmir",
+      "Goa",
+      "Tripura",
+      "Arunachal Pradesh"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-helpage",
+    "name": "HelpAge India",
+    "state": "Delhi",
+    "districts": [
+      "New Delhi"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Senior Citizens",
+      "Livelihood"
+    ],
+    "description": "Organisation working for the rights, health and wellbeing of older people.",
+    "website": "https://www.helpageindia.org/",
+    "contactPage": "https://www.helpageindia.org/contact",
+    "operatingStates": [
+      "Delhi"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-seeds",
+    "name": "SEEDS",
+    "state": "Delhi",
+    "districts": [
+      "New Delhi"
+    ],
+    "sectors": [
+      "Disaster Management",
+      "Housing",
+      "Community Development",
+      "Environment"
+    ],
+    "description": "Humanitarian organisation working on disaster resilience, recovery and climate resilience.",
+    "website": "https://www.seedsindia.org/",
+    "contactPage": "https://www.seedsindia.org/contact-us/",
+    "operatingStates": [
+      "Delhi",
+      "Ladakh",
+      "Uttarakhand",
+      "Odisha",
+      "Bihar",
+      "Assam",
+      "West Bengal",
+      "Gujarat",
+      "Maharashtra",
+      "Karnataka"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-magicbus",
+    "name": "Magic Bus India Foundation",
+    "state": "Maharashtra",
+    "districts": [
+      "Mumbai"
+    ],
+    "sectors": [
+      "Education",
+      "Livelihood",
+      "Youth Affairs"
+    ],
+    "description": "Organisation working with young people through education and employability programmes.",
+    "website": "https://www.magicbus.org/",
+    "contactPage": "https://www.magicbus.org/contact-us.php",
+    "operatingStates": [
+      "Maharashtra",
+      "Uttar Pradesh",
+      "Telangana",
+      "West Bengal",
+      "Delhi"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-akshaya",
+    "name": "The Akshaya Patra Foundation",
+    "state": "Karnataka",
+    "districts": [
+      "Bengaluru Urban"
+    ],
+    "sectors": [
+      "Food & Nutrition",
+      "Education"
+    ],
+    "description": "Non-profit organisation working on school meals and food security.",
+    "website": "https://www.akshayapatra.org/",
+    "contactPage": "https://www.akshayapatra.org/contact-us",
+    "operatingStates": [
+      "Karnataka",
+      "Gujarat",
+      "Rajasthan",
+      "Odisha",
+      "Uttar Pradesh",
+      "Telangana",
+      "Maharashtra",
+      "Delhi",
+      "Himachal Pradesh",
+      "Assam",
+      "Chhattisgarh",
+      "Madhya Pradesh"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-sankalptaru",
+    "name": "SankalpTaru Foundation",
+    "state": "Uttarakhand",
+    "districts": [
+      "Dehradun"
+    ],
+    "sectors": [
+      "Environment",
+      "Community Development",
+      "Livelihood"
+    ],
+    "description": "Environmental organisation working on tree plantation, ecological restoration and community participation.",
+    "website": "https://sankalptaru.org/",
+    "contactPage": "https://sankalptaru.org/contact-us/",
+    "operatingStates": [
+      "Uttarakhand",
+      "Maharashtra",
+      "Delhi",
+      "Karnataka",
+      "West Bengal",
+      "Assam"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-youthforseva",
+    "name": "Youth For Seva",
+    "state": "Karnataka",
+    "districts": [
+      "Bengaluru Urban"
+    ],
+    "sectors": [
+      "Education",
+      "Healthcare",
+      "Environment",
+      "Community Development"
+    ],
+    "description": "Volunteer-driven organisation working through education, health and environment programmes.",
+    "website": "https://youthforseva.org/",
+    "contactPage": "https://youthforseva.org/contact-us/",
+    "operatingStates": [
+      "Karnataka",
+      "Telangana",
+      "Delhi"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-cord",
+    "name": "CORD",
+    "state": "Himachal Pradesh",
+    "districts": [
+      "Kangra"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Education",
+      "Livelihood",
+      "Women & Child Welfare",
+      "Community Development"
+    ],
+    "description": "Rural development organisation working through women-led community participation and integrated development.",
+    "website": "https://cordindia.in/",
+    "contactPage": null,
+    "operatingStates": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Punjab",
+      "Delhi",
+      "Odisha",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-agewell",
+    "name": "Agewell Foundation",
+    "state": "Delhi",
+    "districts": [
+      "New Delhi"
+    ],
+    "sectors": [
+      "Senior Citizens",
+      "Healthcare",
+      "Community Development"
+    ],
+    "description": "Organisation working for the welfare and empowerment of older persons through a nationwide volunteer network.",
+    "website": "https://www.agewellfoundation.org/",
+    "contactPage": null,
+    "operatingStates": [
+      "Bihar",
+      "Delhi",
+      "Haryana",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Punjab",
+      "Rajasthan",
+      "Andhra Pradesh",
+      "Uttar Pradesh",
+      "Tamil Nadu",
+      "West Bengal",
+      "Arunachal Pradesh",
+      "Telangana",
+      "Sikkim"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-navdanya",
+    "name": "Navdanya",
+    "state": "Delhi",
+    "districts": [
+      "New Delhi"
+    ],
+    "sectors": [
+      "Environment",
+      "Agriculture",
+      "Livelihood",
+      "Women & Child Welfare"
+    ],
+    "description": "Organisation working on biodiversity, seed sovereignty and sustainable agriculture.",
+    "website": "https://navdanya.org/",
+    "contactPage": "https://navdanya.org/return-to-earth-2025/26-about-navdanya/25-contact",
+    "operatingStates": [
+      "Uttarakhand",
+      "Uttar Pradesh",
+      "Arunachal Pradesh",
+      "Chhattisgarh",
+      "Ladakh",
+      "Himachal Pradesh",
+      "Haryana",
+      "Rajasthan",
+      "Jammu and Kashmir",
+      "Madhya Pradesh",
+      "Bihar",
+      "Jharkhand",
+      "Maharashtra",
+      "Odisha",
+      "West Bengal",
+      "Manipur",
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-nidan",
+    "name": "NIDAN",
+    "state": "Bihar",
+    "districts": [
+      "Patna"
+    ],
+    "sectors": [
+      "Livelihood",
+      "Women & Child Welfare",
+      "Community Development"
+    ],
+    "description": "Organisation working with informal workers, women, children and vulnerable communities.",
+    "website": "https://nidan.in/",
+    "contactPage": null,
+    "operatingStates": [
+      "Bihar"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-bvha",
+    "name": "Bihar Voluntary Health Association",
+    "state": "Bihar",
+    "districts": [
+      "Patna"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Community Development",
+      "Livelihood"
+    ],
+    "description": "Grassroots health network working with communities and member organisations in Bihar and Jharkhand.",
+    "website": "https://biharvha.org/",
+    "contactPage": "https://biharvha.org/contact-us/",
+    "operatingStates": [
+      "Bihar",
+      "Jharkhand"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-parijat",
+    "name": "Parijat Academy",
+    "state": "Assam",
+    "districts": [
+      "Kamrup Metropolitan"
+    ],
+    "sectors": [
+      "Education",
+      "Livelihood",
+      "Food & Nutrition"
+    ],
+    "description": "Non-profit providing holistic education and care to children from disadvantaged communities in Assam.",
+    "website": "https://parijatacademy.org/",
+    "contactPage": "https://www.parijatacademy.in/contacts/",
+    "operatingStates": [
+      "Assam"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-snehalaya",
+    "name": "Snehalaya Guwahati",
+    "state": "Assam",
+    "districts": [
+      "Kamrup Metropolitan"
+    ],
+    "sectors": [
+      "Women & Child Welfare",
+      "Education",
+      "Community Development"
+    ],
+    "description": "Child-care and child-rights organisation working in Guwahati.",
+    "website": "https://www.snehalaya.net/",
+    "contactPage": null,
+    "operatingStates": [
+      "Assam"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-oju",
+    "name": "OJU Welfare Association",
+    "state": "Arunachal Pradesh",
+    "districts": [
+      "Papum Pare"
+    ],
+    "sectors": [
+      "Education",
+      "Women & Child Welfare",
+      "Healthcare"
+    ],
+    "description": "Long-running Arunachal Pradesh welfare organisation working on education, women and children, and health.",
+    "website": "https://owaap.org.in/",
+    "contactPage": null,
+    "operatingStates": [
+      "Arunachal Pradesh"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-amyaa",
+    "name": "AMYAA",
+    "state": "Arunachal Pradesh",
+    "districts": [
+      "Lower Dibang Valley"
+    ],
+    "sectors": [
+      "Education",
+      "Community Development",
+      "Women & Child Welfare"
+    ],
+    "description": "Community organisation listed by Lower Dibang Valley district administration.",
+    "website": "http://www.amyaa.org",
+    "contactPage": null,
+    "operatingStates": [
+      "Arunachal Pradesh"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-caritasgoa",
+    "name": "Caritas Goa",
+    "state": "Goa",
+    "districts": [
+      "North Goa"
+    ],
+    "sectors": [
+      "Women & Child Welfare",
+      "Healthcare",
+      "Livelihood",
+      "Education"
+    ],
+    "description": "Social-service organisation working on health, women, disability, rehabilitation and community support in Goa.",
+    "website": "https://caritasgoa.org/",
+    "contactPage": null,
+    "operatingStates": [
+      "Goa"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-shiksharth",
+    "name": "Shiksharth Trust",
+    "state": "Chhattisgarh",
+    "districts": [
+      "Sukma"
+    ],
+    "sectors": [
+      "Education",
+      "Community Development"
+    ],
+    "description": "Education organisation focused on tribal children and difficult geographies in South Bastar.",
+    "website": "https://shiksharth.in/",
+    "contactPage": null,
+    "operatingStates": [
+      "Chhattisgarh"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-bachpan",
+    "name": "Bachpan Banao",
+    "state": "Chhattisgarh",
+    "districts": [
+      "Dantewada"
+    ],
+    "sectors": [
+      "Education",
+      "Community Development"
+    ],
+    "description": "Organisation working to strengthen public education and contextual learning.",
+    "website": "https://bachpanbanao.com/",
+    "contactPage": null,
+    "operatingStates": [
+      "Chhattisgarh"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-rkmnarayanpur",
+    "name": "Ramakrishna Mission Vivekananda Mahavidyalaya / Narayanpur",
+    "state": "Chhattisgarh",
+    "districts": [
+      "Narayanpur"
+    ],
+    "sectors": [
+      "Education",
+      "Healthcare",
+      "Livelihood"
+    ],
+    "description": "Ramakrishna Mission branch centre serving the Abujhmaria tribal community through education and development.",
+    "website": "https://rkmvm.in/",
+    "contactPage": null,
+    "operatingStates": [
+      "Chhattisgarh"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-mpvss",
+    "name": "Madhya Pradesh Viklang Sahayta Samiti",
+    "state": "Madhya Pradesh",
+    "districts": [
+      "Ujjain"
+    ],
+    "sectors": [
+      "Disability Support",
+      "Education",
+      "Livelihood",
+      "Community Development"
+    ],
+    "description": "Organisation supporting persons with disabilities through education, vocational training and rehabilitation.",
+    "website": "https://mpvss.in/",
+    "contactPage": null,
+    "operatingStates": [
+      "Madhya Pradesh"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-purkal",
+    "name": "Purkal Youth Development Society",
+    "state": "Uttarakhand",
+    "districts": [
+      "Dehradun"
+    ],
+    "sectors": [
+      "Education",
+      "Healthcare",
+      "Food & Nutrition"
+    ],
+    "description": "Education and holistic-care organisation serving underprivileged children in Uttarakhand.",
+    "website": "https://www.purkal.org/",
+    "contactPage": null,
+    "operatingStates": [
+      "Uttarakhand"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-cci-manipur",
+    "name": "Centre for Community Initiative",
+    "state": "Manipur",
+    "districts": [
+      "Churachandpur"
+    ],
+    "sectors": [
+      "Education",
+      "Healthcare",
+      "Livelihood",
+      "Disability Support",
+      "Community Development"
+    ],
+    "description": "Non-profit organisation working on education, health, livelihoods, disability inclusion and community empowerment.",
+    "website": "https://communityinitiative.in/",
+    "contactPage": null,
+    "operatingStates": [
+      "Manipur"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-abhoy",
+    "name": "Abhoy Mission",
+    "state": "Tripura",
+    "districts": [
+      "West Tripura"
+    ],
+    "sectors": [
+      "Senior Citizens",
+      "Women & Child Welfare",
+      "Disability Support",
+      "Community Development"
+    ],
+    "description": "Tripura organisation supporting vulnerable senior citizens, children and persons with disabilities.",
+    "website": "https://www.abhoymission.org.in/",
+    "contactPage": null,
+    "operatingStates": [
+      "Tripura"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-adarsh",
+    "name": "Adarsh Charitable Trust",
+    "state": "Kerala",
+    "districts": [
+      "Ernakulam"
+    ],
+    "sectors": [
+      "Disability Support",
+      "Education",
+      "Healthcare"
+    ],
+    "description": "Rehabilitation and education organisation supporting children with disabilities.",
+    "website": "https://www.adarshrehab.org/",
+    "contactPage": null,
+    "operatingStates": [
+      "Kerala"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-gandhibhavan",
+    "name": "Gandhibhavan International Trust",
+    "state": "Kerala",
+    "districts": [
+      "Kollam"
+    ],
+    "sectors": [
+      "Senior Citizens",
+      "Healthcare",
+      "Education",
+      "Women & Child Welfare",
+      "Food & Nutrition"
+    ],
+    "description": "Charitable organisation providing shelter, food, medical care, education and rehabilitation.",
+    "website": "https://www.gandhibhavan.org/",
+    "contactPage": null,
+    "operatingStates": [
+      "Kerala"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-gramvikas",
+    "name": "Gram Vikas Trust",
+    "state": "Gujarat",
+    "districts": [
+      "Bharuch"
+    ],
+    "sectors": [
+      "Education",
+      "Healthcare",
+      "Livelihood",
+      "Food & Nutrition",
+      "Water & Sanitation"
+    ],
+    "description": "Gujarat organisation working on livelihoods, education, health, nutrition and community development.",
+    "website": "https://www.gvtbharuch.org/",
+    "contactPage": null,
+    "operatingStates": [
+      "Gujarat"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-akrsp",
+    "name": "Aga Khan Rural Support Programme (India)",
+    "state": "Gujarat",
+    "districts": [
+      "Ahmedabad"
+    ],
+    "sectors": [
+      "Livelihood",
+      "Environment",
+      "Women & Child Welfare",
+      "Community Development"
+    ],
+    "description": "Rural-development organisation supporting livelihoods, resilience and community institutions.",
+    "website": "https://www.akrspindia.org.in/",
+    "contactPage": null,
+    "operatingStates": [
+      "Gujarat"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-saath",
+    "name": "Saath Charitable Trust",
+    "state": "Gujarat",
+    "districts": [
+      "Ahmedabad"
+    ],
+    "sectors": [
+      "Education",
+      "Healthcare",
+      "Livelihood",
+      "Housing",
+      "Community Development"
+    ],
+    "description": "Organisation working on inclusive human settlements, livelihoods, health and education.",
+    "website": "https://www.saath.org/",
+    "contactPage": null,
+    "operatingStates": [
+      "Gujarat"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-bpa",
+    "name": "Blind People’s Association (India)",
+    "state": "Gujarat",
+    "districts": [
+      "Ahmedabad"
+    ],
+    "sectors": [
+      "Disability Support",
+      "Education",
+      "Healthcare",
+      "Livelihood"
+    ],
+    "description": "Organisation supporting people with disabilities through education, rehabilitation, vocational training and community services.",
+    "website": "https://bpaindia.org/",
+    "contactPage": null,
+    "operatingStates": [
+      "Gujarat"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-sense",
+    "name": "Sense International India",
+    "state": "Gujarat",
+    "districts": [
+      "Ahmedabad"
+    ],
+    "sectors": [
+      "Disability Support",
+      "Education",
+      "Healthcare"
+    ],
+    "description": "Organisation supporting people with deafblindness and multiple disabilities.",
+    "website": "https://senseintindia.org/",
+    "contactPage": null,
+    "operatingStates": [
+      "Gujarat"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-janjagran",
+    "name": "Jan Jagran Kendra",
+    "state": "Jharkhand",
+    "districts": [
+      "Hazaribagh"
+    ],
+    "sectors": [
+      "Education",
+      "Livelihood",
+      "Community Development"
+    ],
+    "description": "Community-development organisation listed on the Hazaribag district NGO directory.",
+    "website": "http://www.janjagrankendra.org/",
+    "contactPage": null,
+    "operatingStates": [
+      "Jharkhand"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-naikiran",
+    "name": "Nai Kiran",
+    "state": "Jharkhand",
+    "districts": [
+      "Hazaribagh"
+    ],
+    "sectors": [
+      "Women & Child Welfare",
+      "Education",
+      "Community Development"
+    ],
+    "description": "Social organisation with programmes in Jharkhand.",
+    "website": "https://naikiran.1ngo.in/",
+    "contactPage": null,
+    "operatingStates": [
+      "Jharkhand"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-pradan",
+    "name": "PRADAN",
+    "state": "Jharkhand",
+    "districts": [
+      "Hazaribagh",
+      "Chatra"
+    ],
+    "sectors": [
+      "Livelihood",
+      "Agriculture",
+      "Women & Child Welfare",
+      "Community Development"
+    ],
+    "description": "Development organisation working with rural communities and livelihoods.",
+    "website": "https://www.pradan.net/",
+    "contactPage": "https://www.pradan.net/contact/",
+    "operatingStates": [
+      "Jharkhand",
+      "Bihar",
+      "Odisha",
+      "Chhattisgarh",
+      "Madhya Pradesh",
+      "Rajasthan",
+      "West Bengal",
+      "Gujarat"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-lkss",
+    "name": "Lok Kalyan Sewa Sangh",
+    "state": "Jharkhand",
+    "districts": [
+      "Hazaribagh",
+      "Giridih",
+      "Chatra"
+    ],
+    "sectors": [
+      "Healthcare",
+      "Livelihood",
+      "Women & Child Welfare"
+    ],
+    "description": "Jharkhand social-development organisation.",
+    "website": "https://lokkalyansewasangh.co.in/",
+    "contactPage": "https://lokkalyansewasangh.co.in/contact",
+    "operatingStates": [
+      "Jharkhand"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-aryabhatt",
+    "name": "Aryabhatt Educational & Health Trust",
+    "state": "Jharkhand",
+    "districts": [
+      "Hazaribagh"
+    ],
+    "sectors": [
+      "Education",
+      "Healthcare"
+    ],
+    "description": "Organisation working in education and health in Jharkhand.",
+    "website": "https://www.aryabhatt.in/",
+    "contactPage": null,
+    "operatingStates": [
+      "Jharkhand"
+    ],
+    "source": "Official organisation website",
+    "sourceNote": "Public organisation profile; inclusion is not an endorsement."
+  },
+  {
+    "id": "ngo-ywca-india",
+    "name": "YWCA of India",
+    "state": "Delhi",
+    "districts": [
+      "New Delhi"
+    ],
+    "sectors": [
+      "Women & Child Welfare",
+      "Education",
+      "Livelihood",
+      "Community Development",
+      "Healthcare"
+    ],
+    "description": "National women-focused organisation with local associations and programmes across India.",
+    "website": "https://ywcaindia.org/",
+    "contactPage": null,
+    "operatingStates": [
+      "Andhra Pradesh",
+      "Karnataka",
+      "West Bengal",
+      "Chhattisgarh",
+      "Assam",
+      "Chandigarh",
+      "Delhi",
+      "Goa",
+      "Himachal Pradesh",
+      "Kerala",
+      "Maharashtra",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Punjab",
+      "Uttar Pradesh",
+      "Odisha",
+      "Telangana"
+    ],
+    "source": "Official YWCA of India website + public organisation profile",
+    "sourceNote": "State presence is based on publicly listed association/location information; inclusion is not an endorsement."
+  }
+]

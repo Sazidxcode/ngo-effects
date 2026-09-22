@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "status": "Directory coverage, not NGO outcome data",
+    "note": "The tracker visualizes curated NGO directory coverage and sector representation. It does not invent people-reached, programme, or outcome numbers.",
+    "source": "NGO DARPAN and official organisation websites",
+    "lastReviewed": "September 2026"
+  }
+}
